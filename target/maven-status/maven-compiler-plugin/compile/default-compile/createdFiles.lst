@@ -1,0 +1,6 @@
+sn\edu\ipsl\galsenshop\dao\ClientFacade.class
+sn\edu\ipsl\galsenshop\metier\DemmargeAppBean.class
+sn\edu\ipsl\galsenshop\resources\JakartaEE8Resource.class
+sn\edu\ipsl\galsenshop\dao\AbstractFacade.class
+sn\edu\ipsl\galsenshop\JakartaRestConfiguration.class
+sn\edu\ipsl\galsenshop\model\Client.class
